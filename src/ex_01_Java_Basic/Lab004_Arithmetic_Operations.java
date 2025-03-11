@@ -7,4 +7,10 @@ public class Lab004_Arithmetic_Operations {
         System.out.println(3*4);
         System.out.println(6/2);
     }
+
+
+
+
+
+
 }
