@@ -1,7 +1,7 @@
-package Task_01;
+package Tasks;
 import java.util.Scanner;
 
-public class Lab023_Fibonacci_Sequence {
+public class Task008_Fibonacci_Sequence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of Fibonacci Sequence: ");

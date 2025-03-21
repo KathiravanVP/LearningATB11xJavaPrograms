@@ -1,6 +1,6 @@
-package Task_01;
+package Tasks;
 
-public class Lab014_CLI_User_Input {
+public class Task003_CLI_User_Input {
     public static void main(String[] args) {
         String name = args[0];
         int age = Integer.parseInt(args[1]);

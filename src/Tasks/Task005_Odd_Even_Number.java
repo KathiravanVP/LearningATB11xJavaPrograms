@@ -1,8 +1,8 @@
-package Task_01;
+package Tasks;
 
 import java.util.Scanner;
 
-public class Lab016_Odd_Even_Number {
+public class Task005_Odd_Even_Number {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");

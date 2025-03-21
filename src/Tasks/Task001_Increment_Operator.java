@@ -1,6 +1,6 @@
-package Task_01;
+package Tasks;
 
-public class Lab012_Increment_Operator {
+public class Task001_Increment_Operator {
     public static void main(String[] args) {
         int a = 10;
         System.out.println(++a + a++ + a++);

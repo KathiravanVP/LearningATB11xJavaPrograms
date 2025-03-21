@@ -1,8 +1,8 @@
-package Task_01;
+package Tasks;
 
 import java.util.Scanner;
 
-public class Lab017_Triangle_Classifier {
+public class Task006_Triangle_Classifier {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter length of side 1 : ");

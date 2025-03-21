@@ -1,6 +1,6 @@
-package Task_01;
+package Tasks;
 
-public class Lab013_Decrement_Operator {
+public class Task002_Decrement_Operator {
     public static void main(String[] args) {
         int a = 20;
         System.out.println(--a + a++ + a--);
