@@ -2,7 +2,7 @@ package ex_03_Conditional_Statements;
 
 import java.util.Scanner;
 
-public class Lab019_Switch_Statement {
+public class Lab013_Switch_Statement {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the day number (1-7): ");
