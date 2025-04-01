@@ -42,16 +42,16 @@ class Person1{
     }
 
     void eat(){
-        System.out.println(this.name+" is eating");
+        System.out.println(name+" is eating");
     }
     void sleep(){
-        System.out.println(this.name+" is sleeping");
+        System.out.println(name+" is sleeping");
     }
     void walk(){
-        System.out.println(this.name+" is walking");
+        System.out.println(name+" is walking");
     }
     void doHomeWork(){
-        System.out.println(this.name+" is doing homework");
+        System.out.println(name+" is doing homework");
     }
     void printDetails(){
         System.out.println("Name - "+name);
