@@ -26,23 +26,25 @@ public class Lab019_Arithmetic_Function {
             System.out.println("Enter only integer values");
             System.exit(0);
         }
-
         System.out.println("Sum of numbers = "+sum(n1,n2));
         System.out.println("Difference of numbers = "+sub(n1,n2));
         System.out.println("Multiplication of numbers = "+mul(n1,n2));
         System.out.println("Division of numbers = "+div(n1,n2));
         System.out.println("Modulus of numbers = "+mod(n1,n2));
-
     }
+
     public static int sum(int a,int b){
         return a+b;
     }
+
     public static int sub(int a,int b){
         return a-b;
     }
+
     public static int mul(int a,int b){
         return a*b;
     }
+
     public static int div(int a,int b){
         if (b == 0) {
             System.out.println("Division by zero is not allowed");
@@ -50,6 +52,7 @@ public class Lab019_Arithmetic_Function {
         }
         return a/b;
     }
+
     public static int mod(int a,int b){
         return a%b;
     }
