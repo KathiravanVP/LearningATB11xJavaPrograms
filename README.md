@@ -12,3 +12,15 @@ A curated collection of Java practice programs based on the ATB11x curriculum, c
 - Version control: **Git & GitHub**
 
 ---
+## 📚 Topics Covered
+
+- 🔢 **Basic programming**: Data types, variables, operators, user input
+- 🔄 **Control flow**: Conditional statements and loops
+- 💎 **OOP fundamentals**: Classes, objects, inheritance, polymorphism
+- 📦 **Data structures**: Arrays, ArrayList, HashMap basics
+- 🌐 **String & Exception handling**
+- 🔁 **File I/O**, **Collections**, and utility usage
+- 🔍 **Lambda expressions & Streams** (if included)
+- 🛠️ **Mini automation scripts** or utility exercises
+
+---
